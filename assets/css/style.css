@@ -1785,3 +1785,62 @@ ol {
     color: #234CAD;
     margin-top: 10px;
 }
+.showcase{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.showcase2{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.section-three{
+    margin-top: 50px;
+}
+.spekta1{
+    background-color: #F2F6FF;
+    border-radius: 60px;
+}
+.spekta2{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.spekta2-content{
+    font-family: 'Public Sans', sans-serif;
+    color: #234CAD;
+    font-size: 40px;
+}
+.spekta3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.spekta3-content{
+    font-family: 'Public Sans', sans-serif;
+    color: #234CAD;
+    font-size: 20px;
+    padding-right: 70px;
+}
+.spekta3-link{
+    width: 180px;
+    border-radius: 65px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    border: 2px solid #234CAD;
+    color: #234CAD;
+}
+.section-four{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.spekta4-content{
+    font-family: 'Public Sans', sans-serif;
+    color: #234CAD;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
