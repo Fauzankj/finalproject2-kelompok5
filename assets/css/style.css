@@ -1918,3 +1918,159 @@ ol {
 .noflex{
     display: block;
 }
+
+/** Section D **/
+.website-element-car-1{
+    justify-content: center;
+    display: flex;
+    height: 383px;
+    margin-top: 150px;
+    min-width: 1240;
+}
+
+.card-9{
+    align-items: center;
+    background-color: #F2F6FF;
+    border-radius: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    min-height: 383px;
+    padding: 75px 331px;
+    width: 1240px;
+}
+
+.email-field {
+    align-items: center;
+    align-self: center;
+    background-color: white;
+    border-radius: 17.5px;
+    display: flex;
+    gap: 219px;
+    height: 65px;
+    overflow: hidden;
+    padding: 0 10px;
+    width: 500px;
+}
+
+.submit-button{
+    height: 45px;
+    width: 45px;
+}
+
+.textfield {
+    letter-spacing: 0;
+    line-height: 29px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+    min-width: 201px;
+    opacity: 0.5;
+    white-space: nowrap;
+}
+
+.tittle-5{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    min-height: 133px;
+    width: 573px;
+    color: #234CAD;
+}
+
+.main-tittle-4{
+    margin-right: 4px;
+    text-align: center;
+    white-space: nowrap;
+    width: 569px;
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+}
+
+.body-text-5{
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-right: 3px;
+    min-height: 52px;
+    text-align: center;
+    width: 348px;
+}
+
+.website-elements-footer{
+    align-items: flex-start;
+    display: flex;
+    height: 166px;
+    left: 249px;
+    min-width: 941px;
+    position: absolute;
+    margin-top: 30px;
+    color: #234CAD;
+}
+
+.section{
+    align-items: flex-start;
+    display: flex;
+    gap: 150px;
+    width: 941px;
+}
+
+.about{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 127px;
+    overflow: hidden;
+    width: 86px;
+}
+
+.title {
+    letter-spacing: 0;
+    line-height: 49px;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.item-2-1{
+    letter-spacing: 0;
+    line-height: 29px;
+    white-space: nowrap;
+}
+
+.product{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 166px;
+    width: 110px;
+}
+
+.item-2-2{
+    letter-spacing: 0;
+    line-height: 29px;
+    white-space: nowrap;
+    margin-top: 10px;
+}
+
+.flex.col{
+    align-items: flex-start;
+    flex-direction: column;
+    min-height: 127px;
+    width: 163px;
+}
+
+.company-name{
+    letter-spacing: 0;
+    line-height: 49px;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.copyright{
+    letter-spacing: 0;
+    line-height: 29px;
+    min-height: 58px;
+    width: 163px;
+}
