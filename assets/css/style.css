@@ -2074,3 +2074,70 @@ ol {
     min-height: 58px;
     width: 163px;
 }
+
+
+.spekta5{
+    margin-left: 77px;
+    margin-right: 83px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.sectionc-box{
+    background-color: #ffffff;
+    padding: 20px;
+    color: #234CAD;
+    font-family: 'Public Sans', sans-serif;
+    width: 238px;
+    border-radius: 30px;
+}
+.sectionc-box2{
+    background-color: #ffffff;
+    padding: 20px;
+    color: #234CAD;
+    font-family: 'Public Sans', sans-serif;
+    border-radius: 30px;
+    width: 250px;
+    font-size: 22px;
+}
+.sectionc-box3{
+    background-color: #ffffff;
+    padding: 20px;
+    color: #234CAD;
+    font-family: 'Public Sans', sans-serif;
+    border-radius: 30px;
+    width: 350px;
+    font-size: 18px;
+}
+.card-19{
+    align-items: center;
+    background-color: #F2F6FF;
+    border-radius: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    min-height: 383px;
+    padding: 30px 165px;
+    width: 50px;
+    border: 2px solid #234CAD;
+    margin: 23px;
+}
+.tittle-19 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    min-height: 133px;
+    width: 100px;
+    color: #234CAD;
+    
+}
+.spekta19-link {
+    width: 180px;
+    border-radius: 65px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    border: 2px solid #234CAD;
+    color: #234CAD;
+    background: white;
+}
